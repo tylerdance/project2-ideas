@@ -9,9 +9,24 @@ Review the [Project 2 requirements](https://romebell.gitbook.io/sei-1019/project
 In this space below, list **THREE** ideas for your Project 2. For each idea, include [user stories](https://revelry.co/user-stories-that-dont-suck/) for each idea and a link to the API(s) you want to use for it.
 
 --------------------------------------------------------
-1. 
-2. 
-3.
+1. AI audio mastering app
+- I feel like I might be biting off more than I can chew for this idea. Maybe a better project 3 or 4 idea?
+As a user, I want to be able to upload my track for mastering
+As a user, I want to be able to set my target loudness for the final master
+As a user, I want to be able to downlaod my newly mastered track
+As a user, I want to be able to see a list of all the tracks I've uploaded for mastering
+API: https://aimastering.com/api_docs/
+
+2. News search app
+As a user, I want to be able to search for articles and save individual articles to my reference page
+As a user, I want to be be able to make comments on articles I've saved
+API: https://developer.nytimes.com/docs/articlesearch-product/1/overview
+
+3. Off-road bike trail app
+As a user, I want to be able to search for trails near me and save trails I've ridden, and trails I want to ride
+As a user, I want to be able to make comments on saved trails about level of difficulty, etc
+API: https://www.mtbproject.com/data
+
 ---------------------------------------------------------
 
 Make a PR when you're done!
