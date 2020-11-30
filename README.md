@@ -42,12 +42,23 @@ In the space below:
 
 ----------------------------------------------------------
 ### ERD
+![image](./img/trail-finder-ERD.png)
 
 ----------------------------------------------------------
 ### User Stories
+Ability to log in with my email
+Ability to search bike trails up to 500 miles from my location
+Abliity to save trails to a personal list
+Ability to keep my list saved to my account when logged out
 
 ----------------------------------------------------------
 ### Wireframes
+Homepage
+![picture](./img/trail-finder-homepage-wireframe.png)
+
+My List page
+![picture](./img/trail-finder-saved-trails-page.png)
+
 
 ----------------------------------------------------------
 
